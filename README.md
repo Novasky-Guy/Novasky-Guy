@@ -9,7 +9,7 @@ class Nova():
     self.username = "Nova";
     self.location = "Europe";
     self.twitter = "@Novasky_guy";
-    self.web = "https://novaone.dev";
+    self.web = "https://novaone.dev"; #WIP
   
   def __str__(self):
     return self.name
@@ -27,8 +27,8 @@ My goal in life is to become a full stack developer, and even though progress is
 ## Technical Skills & Tools
 
 
-| Python   | One of my main languages, python is truly amazing      |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  | One of my main languages, python is truly amazing      |
 |----------|--------------------------------------------------------|
-| Html/css | The building blocks for my websites                    |
-| C#       | A little bit of C# never hurt anyone, right...?        |
-| Java     | Even though i do not enjoy coding in java, i can do it |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | The building blocks for my websites                    |
+| ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)       | A little bit of C# never hurt anyone, right...?        |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   | Even though i do not enjoy coding in java, i can do it |
