@@ -9,7 +9,7 @@ class Nova():
     self.username = "Nova";
     self.location = "Europe";
     self.twitter = "@Novasky_guy";
-    self.web = "https://novaone.dev"; #WIP
+    self.web = "https://novaone.dev";
   
   def __str__(self):
     return self.name
@@ -20,6 +20,6 @@ if __name__ == '__main__':
 
 
 ## Tell Me a Little Bit About Yourself :sunglasses:
-I have been learning how to code for over 5 years now! Coding is something that i really do enjoy doing, ontop of that- i love videography, photography and anything with drones.
+I have been learning how to code for over 7 years now! Coding is something that i really do enjoy doing, ontop of that- i love videography, photography and anything with drones.
 
 My goal in life is to become a full stack developer, and even though progress is coming along, i believe there is always more to learn!
