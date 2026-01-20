@@ -1,4 +1,8 @@
-![Banner](https://user-images.githubusercontent.com/91095629/195866103-f805bd23-92ec-47c0-9296-9239e0a287e9.jpg)
+<div align="center">
+<img src="https://github.com/Novasky-Guy/Novasky-Guy/blob/main/standard(1).gif" alt="Banner" width="100%" style="max-width: 100%; height: auto;">
+</div>
+
+
 
 
 ```python
